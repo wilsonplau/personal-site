@@ -1,0 +1,10 @@
+@import "./Variables.scss";
+
+.index {
+	&__hero {
+		@include hero;
+	}
+	&__heroContainer {
+		@include hero-container;
+	}
+}
