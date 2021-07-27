@@ -1,12 +1,12 @@
 ---
-path: "/build/confetti"
-link: "https://tryconfetti.io/"
-title: "Confetti"
-date: "2019 - Present"
-role: "Co-founder / Developer"
-description: "Confetti is a habit tracker designed to celebrate your everyday accomplishments. Originally designed by Dan Sapio, I partnered with him to develop the app in React / React Native and bring it to life. "
-image: "./img/confetti.png"
-tools: [React Native, Ruby on Rails]
-roles: [developer, entrepreneur]
-order: 1
+path: "/build/compound"
+link: "https://github.com/wilsonplau/compound"
+title: "Compound Savings"
+date: "2019"
+role: "Developer"
+description: "Compound Savings is an interface that allows users to visualize and interact with their Compound DAI balances, inspired by popular roboadvisors. I built the proof-of-concept using React / Web3.js on Ethereum (Kovan)."
+image: "./img/compound.png"
+tools: [React, Web3.js]
+roles: [designer, developer]
+order: 2
 ---

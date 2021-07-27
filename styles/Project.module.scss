@@ -1,0 +1,41 @@
+@import "./Variables.scss";
+
+.project {
+	max-width: $max-width;
+	font-family: $libre-franklin;
+	display: grid;
+	align-items: center;
+	grid-template-rows: auto auto;
+	grid-template-columns: 1fr 600px;
+	grid-template-areas:
+		"image image"
+		"header description";
+	margin: 75px 0;
+	&__image {
+		width: 100%;
+		grid-area: image;
+	}
+	&__left {
+		h2 {
+			font-size: 48px;
+			font-weight: 500;
+			margin-top: 10px;
+		}
+		h3 {
+			margin-top: 5px;
+			font-size: 18px;
+			font-weight: 300;
+		}
+		h3 span {
+			font-weight: 500;
+		}
+	}
+	&__right {
+		p {
+			margin-top: 15px;
+			line-height: 1.3em;
+			font-weight: 400;
+			text-align: right;
+		}
+	}
+}
