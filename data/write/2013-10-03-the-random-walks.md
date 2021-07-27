@@ -4,7 +4,7 @@ title: The Random Walks
 subtitle: "What have you learned about the flow of the design process?"
 date: 2013-10-03
 tags: [Design]
-collection: [explour]
+collection: [Explour]
 ---
 
 ## It often feels like a series of random walks.

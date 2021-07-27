@@ -3,7 +3,7 @@ path: "/write/the-agglomeration-effect"
 title: The Agglomeration Effect
 date: 2012-05-23
 tags: [Urbanism]
-collection: [explour]
+collection: [Explour]
 ---
 
 I mentioned in my last post that there are interactions beyond competitive forces that affect the operations of a business.

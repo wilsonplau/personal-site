@@ -3,7 +3,7 @@ path: "/write/the-evolutionary-corporation"
 title: The Evolutionary Corporation
 date: 2012-05-12
 tags: [Design]
-collection: [explour]
+collection: [Explour]
 ---
 
 I find that we tend to look at companies with a set of limited and prescribed perspectives. It’s all well-taught in business schools — to analyze how a company operates internally, look at how industry forces influence these operations, and to consider how competitors may react given their capabilities. It’s altogether a very aggressive and militaristic view of how companies operate in their environment.

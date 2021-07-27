@@ -3,7 +3,7 @@ path: "/write/the-manifesto"
 title: The Manifesto
 date: 2012-06-10
 tags: [Design]
-collection: [explour]
+collection: [Explour]
 ---
 
 If you knew me better, you’d know that I love a good manifesto. In the last few weeks, I’ve gotten the opportunity to attempt to explain in some level of brevity the thinking that I’ve been doing around interaction design and its place in business. This is my attempt at channeling that clarity of thought into one document.
@@ -18,7 +18,7 @@ To begin, we must first understand that a company is made up of no more than a s
 
 And I believe that this line of thinking extends in two directions -
 
-**One*/ — if we begin to think in this way, we must realize that we have to radically simplify corporations and look at the in a more modular form. Chris Zook of Bain, in his book Repeatability, praises the simplicity of a company that only products 60 products — Apple. The rest of the companies within its value network — app developers, media companies, Foxconn, etc — are all designed to interact with it in a certain way. This therefore leads us to much more meaningful thinking into how one company or division should be interacting with one another to truly create the synergies and value that they bring to each other. The concepts of M&A and supplier/distributor/retailer relationships therefore adopt a different level of importance — to the extend that we must start thinking about how we must design systems around them to encourage the company-to-company interactions that we want.
+\*_One_/ — if we begin to think in this way, we must realize that we have to radically simplify corporations and look at the in a more modular form. Chris Zook of Bain, in his book Repeatability, praises the simplicity of a company that only products 60 products — Apple. The rest of the companies within its value network — app developers, media companies, Foxconn, etc — are all designed to interact with it in a certain way. This therefore leads us to much more meaningful thinking into how one company or division should be interacting with one another to truly create the synergies and value that they bring to each other. The concepts of M&A and supplier/distributor/retailer relationships therefore adopt a different level of importance — to the extend that we must start thinking about how we must design systems around them to encourage the company-to-company interactions that we want.
 
 **Two** — if we think in this way, we have to begin to contemplate the effects of interactions that we never think of. I mentioned in The Evolutionary Corporation that business theory forces us to thinking in terms of competitive reactions, Porter’s Five Forces and Value Chain principles, but we may have excluded an entire realm of interactions that influence companies as well. I reference The Agglomeration Effect as an example, but I believe there is much to uncover.
 

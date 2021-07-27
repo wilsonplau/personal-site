@@ -1,6 +1,6 @@
 ---
-path: "/write/the-manifesto"
-title: The Manifesto
+path: "/write/the-structure-of-design"
+title: The Structure of Design
 date: 2013-05-20
 tags: [Design]
 collection: [Explour]

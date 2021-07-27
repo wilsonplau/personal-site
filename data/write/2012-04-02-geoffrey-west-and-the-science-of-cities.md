@@ -3,7 +3,7 @@ path: "/write/geoffrey-west-and-the-science-of-cities"
 title: Geoffrey West and the Science of Cities
 date: 2012-04-02
 tags: [Urbanism]
-collection: [explour]
+collection: [Explour]
 ---
 
 I’ve known about Geoffrey West’s work since this past summer when I came across this article on Edge.org. Since then, I’ve gotten a bit obsessed about cities and have investigated further into the likes of Jane Jacobs, Richard Florida and Edward Glaeser. Their work led to idle musings about workplace design and contemplating about what city I’d like to eventually move to — but I realize that I’ve been asking the wrong question.
