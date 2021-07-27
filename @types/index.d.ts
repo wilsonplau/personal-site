@@ -2,7 +2,6 @@ import matter from "gray-matter";
 
 export interface ProjectMarkdown extends matter.GrayMatterFile {
 	data: {
-		[key: string]: any;
 		date: string;
 		description: string;
 		image: string;
@@ -13,5 +12,15 @@ export interface ProjectMarkdown extends matter.GrayMatterFile {
 		roles: string[];
 		title: string;
 		tools: string[];
+	};
+}
+
+export interface ArticleMarkdown extends matter.GrayMatterFile {
+	data: {
+		collection: string[];
+		date: Date;
+		path: string;
+		tags: string[];
+		title: string;
 	};
 }

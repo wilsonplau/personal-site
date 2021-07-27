@@ -1,10 +1,77 @@
 @import "./Variables.scss";
 
 .write {
-	&__hero {
-		@include hero;
-	}
-	&__heroContainer {
-		@include hero-container;
-	}
+  &__hero {
+    @include hero;
+  }
+  &__heroContainer {
+    @include hero-container;
+  }
+  &__main {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    padding: 100px 0;
+    max-width: $max-width;
+    margin: 0 auto;
+    position: relative;
+  }
+  &__right {
+    border-top: 1px solid #222;
+  }
+
+  &Menu {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    &__wrapper {
+      top: 100px;
+      position: sticky;
+    }
+    h2 {
+      font-family: "Libre Franklin";
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 1.5em;
+    }
+    button {
+      font-family: "Libre Franklin";
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 1.5em;
+      color: #222;
+      margin-left: 5px;
+      border: none;
+      background-color: transparent;
+      &[data-active="true"] {
+        font-weight: 600;
+      }
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+
+  &Single {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    border-bottom: 1px solid #222;
+    padding: 25px 0;
+    &:hover {
+      cursor: pointer;
+    }
+    h2 {
+      font-size: 36px;
+      line-height: 1.2em;
+      font-weight: normal;
+      font-family: "Libre Baskerville";
+      color: #222;
+    }
+    h3 {
+      margin-top: 25px;
+      font-family: "Libre Franklin";
+      font-weight: 400;
+    }
+  }
 }
