@@ -1,5 +1,5 @@
 ---
-path: "/write/everyday-discipline"
+path: "/write/2017-04-02-everyday-discipline"
 title: Everyday Discipline
 date: 2017-04-02
 tags: [Mindfulness]

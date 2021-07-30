@@ -1,0 +1,38 @@
+@import "./Variables.scss";
+
+.article {
+  &__hero {
+    @include hero;
+  }
+  &__heroContainer {
+    @include hero-container;
+  }
+  &__main {
+    max-width: $max-width;
+    display: grid;
+    grid-template-columns: 1fr 900px;
+    grid-column-gap: 50px;
+    padding: 100px 0;
+    position: relative;
+    margin: 0 auto;
+  }
+  &__left a {
+    font-family: $libre-franklin;
+    top: 100px;
+    position: sticky;
+  }
+  &__heading {
+    font-size: 48px;
+    line-height: 1.1em;
+    font-weight: normal;
+    font-family: $libre-baskerville;
+    margin-bottom: 25px;
+  }
+  &__subheading {
+    font-family: $libre-franklin;
+  }
+  &__content {
+    @include article-content;
+    margin-top: 50px;
+  }
+}

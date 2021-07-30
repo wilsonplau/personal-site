@@ -1,5 +1,5 @@
 ---
-path: "/write/anthropological-future-and-core-competencies"
+path: "/write/2013-04-23-anthropological-futures-and-core-competencies"
 title: Anthropological Futures and Core Competencies
 date: 2013-04-23
 tags: [Design]

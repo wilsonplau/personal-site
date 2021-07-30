@@ -1,5 +1,5 @@
 ---
-path: "/write/the-agglomeration-effect"
+path: "/write/2012-05-23-the-agglomeration-effect"
 title: The Agglomeration Effect
 date: 2012-05-23
 tags: [Urbanism]

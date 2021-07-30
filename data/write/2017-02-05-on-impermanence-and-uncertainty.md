@@ -1,5 +1,5 @@
 ---
-path: "/write/on-impermanance-and-uncertainty"
+path: "/write/2017-02-05-on-impermanance-and-uncertainty"
 title: On Impermanence and Uncertainty
 date: 2017-02-05
 tags: [Mindfulness]

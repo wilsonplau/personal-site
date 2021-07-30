@@ -15,9 +15,6 @@
     margin: 0 auto;
     position: relative;
   }
-  &__right {
-    border-top: 1px solid #222;
-  }
 
   &Menu {
     margin-bottom: 25px;
@@ -58,6 +55,9 @@
     justify-content: flex-start;
     border-bottom: 1px solid #222;
     padding: 25px 0;
+    &:first-child {
+      border-top: 1px solid #222;
+    }
     &:hover {
       cursor: pointer;
     }

@@ -1,5 +1,5 @@
 ---
-path: "/write/a-reminder-that-the-world-is-beautiful"
+path: "/write/2017-03-05-a-reminder-that-the-world-is-beautiful"
 title: A Reminder that the World is Beautiful
 date: 2017-03-05
 tags: [Mindfulness]

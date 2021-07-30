@@ -1,5 +1,5 @@
 ---
-path: "/write/the-random-walks"
+path: "/write/2013-10-03-the-random-walks"
 title: The Random Walks
 subtitle: "What have you learned about the flow of the design process?"
 date: 2013-10-03

@@ -1,5 +1,5 @@
 ---
-path: "/write/epic-a-personal-reflection"
+path: "/write/2013-02-24-epic-a-personal-reflection"
 title: Epic - A Personal Reflection
 date: 2013-02-24
 tags: [Design]

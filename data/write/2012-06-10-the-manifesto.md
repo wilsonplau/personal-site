@@ -1,5 +1,5 @@
 ---
-path: "/write/the-manifesto"
+path: "/write/2012-06-10-the-manifesto"
 title: The Manifesto
 date: 2012-06-10
 tags: [Design]

@@ -1,5 +1,5 @@
 ---
-path: "/write/on-single-bonding-curves-for-continuous-token-models"
+path: "/write/2018-07-06-on-single-bonding-curves-for-continuous-token-models"
 title: On Single Bonding Curves for Continuous Token Models
 date: 2018-07-06
 tags: [Blockchain]
@@ -12,11 +12,11 @@ Bonding curves have qualities of both debt and equity from an investors perspect
 
 However, I do think that the math of it all has been glossed over somewhat. The specifics of the math have a significant impact on both incentivization and scalability; if we incorrectly design these cryptoeconomic models, we risk creating some unsustainable projects or markets ripe for abuse and manipulation. Here are a few realities that I think we need contend with when designing these models:
 
-* Contributors who bond their ETH want to make a good return, or else they don’t have an incentive to contribute. We generally know the scale that these contributor-cum-HODLers expect to make based on our experience in the cryptomarkets so far (definitely not 5% YoY). We also want to incentivize early adopters more than late adopters. And of course, we know that in crypto-markets, any opportunity for abuse or arbitrage will be taken advantage of.
+- Contributors who bond their ETH want to make a good return, or else they don’t have an incentive to contribute. We generally know the scale that these contributor-cum-HODLers expect to make based on our experience in the cryptomarkets so far (definitely not 5% YoY). We also want to incentivize early adopters more than late adopters. And of course, we know that in crypto-markets, any opportunity for abuse or arbitrage will be taken advantage of.
 
-* The growth of the underlying product is likely to follow some type of S-Curve, where growth accelerates towards a stage of maturity, then declerates after that to a stage of stability. We need to design the bonding curve based on that model of growth, and we should also generally expect tokens to scale up to 5, 6, 7, 8, maybe even 9 magnitudes from inception.
+- The growth of the underlying product is likely to follow some type of S-Curve, where growth accelerates towards a stage of maturity, then declerates after that to a stage of stability. We need to design the bonding curve based on that model of growth, and we should also generally expect tokens to scale up to 5, 6, 7, 8, maybe even 9 magnitudes from inception.
 
-* There is some upward limit of the amount of capital that will be contributed over the lifetime of a project – that is, we don’t need to design for a scenario where the capital is in the trillion dollar range, but maybe in the millions – and returns have to be appropriately attractive across that reasonable range. Contrary to market capitalization, where an additional dollar going into the system might yield a $25 increase in market cap, the capital contributed into a bonding curve is dollar-for-dollar, which means we’re probably looking at figures that are a magnitude or two lower than current market capitalizations for the equivalent project. There isn’t this magical economic concept of ‘value’ being created when prices go up.
+- There is some upward limit of the amount of capital that will be contributed over the lifetime of a project – that is, we don’t need to design for a scenario where the capital is in the trillion dollar range, but maybe in the millions – and returns have to be appropriately attractive across that reasonable range. Contrary to market capitalization, where an additional dollar going into the system might yield a $25 increase in market cap, the capital contributed into a bonding curve is dollar-for-dollar, which means we’re probably looking at figures that are a magnitude or two lower than current market capitalizations for the equivalent project. There isn’t this magical economic concept of ‘value’ being created when prices go up.
 
 So, we know some of the parameters we need to design for. The models I present here will hopefully help us get a better understanding of the variables and functions that help us define a working bonding curve based on those parameters.
 
@@ -24,12 +24,12 @@ As a side note, this article will only cover single bonding curves, where buy pr
 
 **One last warning:** This is a very technical article. Please start by reading at least some of the work that has inspired this thinking to get the background necessary to not be utterly confused by the rest of this:
 
-* Tokens 2.0: Curved Token Bonding in Curation Markets by Simon de la Rouviere
-* The Arcade Bazaar: Continuous, Multi-Party, Tokenized Funding Without Central Issuance by Simon de la Rouviere
-* How to Make Bonding Curves for Continuous Token Models by Slava Balasanov
-* Token Bonding Curves Explained by Justin Goro
+- Tokens 2.0: Curved Token Bonding in Curation Markets by Simon de la Rouviere
+- The Arcade Bazaar: Continuous, Multi-Party, Tokenized Funding Without Central Issuance by Simon de la Rouviere
+- How to Make Bonding Curves for Continuous Token Models by Slava Balasanov
+- Token Bonding Curves Explained by Justin Goro
 
-The question we’re trying to answer in this article is straightforward: 
+The question we’re trying to answer in this article is straightforward:
 How might we define the function behind a bonding curve?
 
 ## The Problem with Exponential Functions
@@ -62,7 +62,7 @@ For example, if we were to define the rule as: Token A will appreciate by 25% fo
 
 The price chart would look somewhat like the one above, and you can see all of the details of the various factors in the model you can find here.
 
-## Variations on this Model 
+## Variations on this Model
 
 If we were to define the rule as: Token A will appreciate by 100% for every doubling of the number of tokens issued (or in any case where A = C - 1) the equation would be equivalent to a linear function. Where A > C - 1, we define a superlinear function (not exponential) that accelerates as token supply increases. Where A < C - 1, we define a sublinear function that looks more like a logarithmic function. You can see the curves below.
 

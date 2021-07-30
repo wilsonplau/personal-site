@@ -1,5 +1,5 @@
 ---
-path: "/write/physics-math-and-design"
+path: "/write/2013-04-17-physics-math-and-design"
 title: Physics, Math and Design?
 date: 2013-04-17
 tags: [Design]

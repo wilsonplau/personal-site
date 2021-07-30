@@ -1,5 +1,5 @@
 ---
-path: "/write/applying-stablecoin-mechanisms-to-utility-tokens"
+path: "/write/2018-03-28-applying-stablecoin-mechanisms-to-utility-tokens"
 title: Applying Stablecoin Mechanisms to Utility Tokens
 date: 2018-03-28
 tags: [Blockchain]
@@ -20,10 +20,10 @@ This conversation led me to think about applying stablecoin mechanisms to a util
 
 For background on the approaches and mechanisms behind non-asset backed stablecoins, I would recommend reading the following:
 
-* Vitalik Buterin wrote about four approaches for stablecoins
-* Myles Snider wrote a wonderful overview of stablecoins
-* Robert Sams wrote one of the original papers on cryptocurrency stabilization
-* Basecoin’s Whitepaper presents one of the applications of stablecoin mechanics
+- Vitalik Buterin wrote about four approaches for stablecoins
+- Myles Snider wrote a wonderful overview of stablecoins
+- Robert Sams wrote one of the original papers on cryptocurrency stabilization
+- Basecoin’s Whitepaper presents one of the applications of stablecoin mechanics
 
 I would also recommend reading my previous piece on the velocity problem and the GNOSIS / SPANKCHAIN model since I reference it quite a bit.
 
@@ -35,7 +35,7 @@ The utility token could be used in any of the many cryptonetwork applications we
 
 Within the cryptonetwork, a fee would be charged on every transaction — say 1%. Those transaction fees are burned. As a result, there will always be a deflationary pressure on the utility token since the supply is constantly being reduced.
 
-*(Note that this transaction fee will play a big part in dictating how valuable the network would be to investors – I don’t quite believe in 0 transaction fee networks for non-store-of-value tokens and relying on single utility token appreciation to generate value, despite the idealistic side of this community to create these fee-free networks. I’m quite convinced that story doesn’t end well.)*
+_(Note that this transaction fee will play a big part in dictating how valuable the network would be to investors – I don’t quite believe in 0 transaction fee networks for non-store-of-value tokens and relying on single utility token appreciation to generate value, despite the idealistic side of this community to create these fee-free networks. I’m quite convinced that story doesn’t end well.)_
 
 Also note the difference here between this model and other stablecoin models. Since there are no transaction fees on those networks, most stablecoin tokens offer bonds or auctions to reduce supply. In this case, I don’t believe a mechanism to decrease supply is necessary because the transaction fees act as a natural sink.
 
@@ -55,7 +55,7 @@ A utility token with stabilized value may actually act as a store of value more 
 
 Alex Evans might argue that transaction cost is the primary driver for holding times for utility tokens; others might argue that it is simply opportunity cost, and a stable value doesn’t change these two variables. However, I think individuals may choose to hold tokens for longer simply because they don’t fear volatility in the price. Regardless, whether or not individuals choose to hold becomes less important in this model, as explained below.
 
-### C. Lessened Impact of Velocity on Mint Token Value 
+### C. Lessened Impact of Velocity on Mint Token Value
 
 When thinking about this model, I was originally frustrated because the number of utility tokens minted would still be affected by velocity, which would affect the value of the mint token. It is true that high velocity on these tokens would decrease the utility token supply subsantially, and vice versa — but importantly, velocity does not have the same effect on mint token price as it would in a single utility token model.
 

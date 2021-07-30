@@ -1,5 +1,5 @@
 ---
-path: "/write/the-white-space"
+path: "/write/2013-02-02-the-white-space"
 title: The White Space
 date: 2013-02-02
 tags: [Design]

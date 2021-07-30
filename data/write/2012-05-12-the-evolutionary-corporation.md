@@ -1,5 +1,5 @@
 ---
-path: "/write/the-evolutionary-corporation"
+path: "/write/2012-05-12-the-evolutionary-corporation"
 title: The Evolutionary Corporation
 date: 2012-05-12
 tags: [Design]

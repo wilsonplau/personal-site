@@ -1,5 +1,5 @@
 ---
-path: "/write/on-the-current-state-of-security-tokens"
+path: "/write/2018-07-10-on-the-current-state-of-security-tokens"
 title: On the Current State of Security Tokens
 date: 2018-07-10
 tags: [Blockchain]
@@ -8,13 +8,13 @@ collection: [Thoughtchains]
 
 Security tokens have been hyped up a lot in the past few months. A lot of the writing you might read here on Hacker Noon and Medium describes them as having these amazing properties that are ripe to disrupt the multi-trillion dollar securities markets. Some of the more influential articles (for background) have been:
 
-* Stephen McKeon’s two articles: Traditional Asset Tokenization and The Security Token Thesis
-* Anthony Pompliano’s Official Guide to Tokenized Securities
-* Howard Marks’ article: The ICO Is Dead. Long Live the ICO 2.0
+- Stephen McKeon’s two articles: Traditional Asset Tokenization and The Security Token Thesis
+- Anthony Pompliano’s Official Guide to Tokenized Securities
+- Howard Marks’ article: The ICO Is Dead. Long Live the ICO 2.0
 
 I’d agree that they definitely have the potential to do be extremely disruptive, but instead of focusing on what could happen, I’d like to walk us through three different security token issuances that have actually been filed / are very close to being filed to give us a better sense of where security tokens are today.
 
-## Regulation D: PropertyCoin 
+## Regulation D: PropertyCoin
 
 > **A Quick Primer on Regulation D:** Rule 506 under Regulation D is the most common way to privately raise money without the burdensome disclosure and audit requirements of a public offering. These offerings are restricted to accredited investors, are not allowed to be publicly advertised, and the securities issued are trading-restricted. [Learn more.]()
 
@@ -36,7 +36,7 @@ Again, this is not because it is a Regulation D offering. In the same way as abo
 
 In the case of PropertyCoin, it is similar: no distribution rights and the parent company owns 100% of the equity. They make it quite explicit that the only way that investors will make money is through capital gains — if they either sell the token to someone else or to the company in a buyback.
 
-> *PropertyCoins have no distribution or dividend rights. Any return of capital to purchasers thereof will occur through open market purchases or repurchases of PropertyCoins by the Token Issuer...*
+> _PropertyCoins have no distribution or dividend rights. Any return of capital to purchasers thereof will occur through open market purchases or repurchases of PropertyCoins by the Token Issuer..._
 
 Additionally, in liquidation, there are no claims to any of the underlying assets because token holders don’t actually own any equity. There’s only this clause that says that in the case of liquidation, that token holders would be returned some proceeds on a pari-passu basis. However, what is unclear is what the split would be between the 100% equity owner of the LP and these token holders; that split is probably whatever management wants.
 
@@ -65,7 +65,7 @@ Yes, someone actually tried to do an S-1 filing for a security token. Praetorian
 
 There’s not much to say about the offering itself. There’s no detail as to what the PAX tokens are other than them being either ERC-20 tokens or NEO tokens, and that there’s some right to a percentage of net profits to be distributed as management pleases, paid through token buybacks (What?).
 
-> *On an Annual basis, all Company PAX Token Holders shall be entitled to their share of our net profit, (revenue minus expenses off the real estate holdings) that the Company will distribute, in its sole and absolute discretion. This will be paid in PAX tokens purchased on the secondary exchange when the Company achieves profitability.*
+> _On an Annual basis, all Company PAX Token Holders shall be entitled to their share of our net profit, (revenue minus expenses off the real estate holdings) that the Company will distribute, in its sole and absolute discretion. This will be paid in PAX tokens purchased on the secondary exchange when the Company achieves profitability._
 
 Most of the lawyers who are much more familiar with these filings have basically laughed at the filing and say that not only it doesn’t not make a lot of sense, but that it is also missing a section required for S-1 filings, and would never be approved by the SEC. You can read Bloomberg’s take on the offering and some other commentary I’ve found.
 
@@ -87,9 +87,9 @@ I’ve picked out a few parts of this offering of note to discuss. In many ways,
 
 The GAB security token is structured in a way that makes it very similar to a Class B share, where the economic rights are equivalent to a Class A share but without voting rights. This is not to say that every Regulation A+ offering will be structured this way, but this is a breath of fresh air compared to the other filings we’ve discussed.
 
-> *In this Offering, we are offering to investors Class B Non-Voting Common Stock designated as “GAB Tokens”, which will be issued through Ethereum-based ERC-20 smart contracts on the Ethereum blockchain.*
+> _In this Offering, we are offering to investors Class B Non-Voting Common Stock designated as “GAB Tokens”, which will be issued through Ethereum-based ERC-20 smart contracts on the Ethereum blockchain._
 
-> *The holders of our GAB Tokens, together with the holders of our Class A Common Stock, will be entitled to receive pro rata dividends, if any, declared by our board of directors out of legally available funds. Upon our liquidation, dissolution or winding-up, the holders of our GAB Tokens, together with the holders of our Class A Common Stock, are entitled to share ratably in all assets that are legally available for distribution. For purposes of clarity, in connection with any dividends, liquidation, dissolution or winding up of the Company, each GAB Token shall be entitled to receive the same dividend or distribution to which each share of Class A Common Stock is entitled to receive.*
+> _The holders of our GAB Tokens, together with the holders of our Class A Common Stock, will be entitled to receive pro rata dividends, if any, declared by our board of directors out of legally available funds. Upon our liquidation, dissolution or winding-up, the holders of our GAB Tokens, together with the holders of our Class A Common Stock, are entitled to share ratably in all assets that are legally available for distribution. For purposes of clarity, in connection with any dividends, liquidation, dissolution or winding up of the Company, each GAB Token shall be entitled to receive the same dividend or distribution to which each share of Class A Common Stock is entitled to receive._
 
 ### 2. Trading on exchanges allowed
 

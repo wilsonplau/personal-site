@@ -1,5 +1,5 @@
 ---
-path: "/write/on-mindfulness-and-shame"
+path: "/write/2016-08-20-on-mindfulness-and-shame"
 title: On Mindfulness and Shame
 date: 2016-08-20
 tags: [Reflections]
@@ -10,7 +10,7 @@ When we catch ourselves in moments of negativity, how should we respond?
 
 If you read enough about mindfulness, it sometimes sounds like we’re supposed to be able to close our eyes, take three long breaths, and let go our raging emotions like a soft, fluffy clouds floating away in the sky.
 
-I admit — no, I _recognize and fully embrace_ — that I do not have this capability; I am not the Dalai Lama. When I’m mad and sad and frustrated and going crazy from all of those things combined, I am not some manifestation of grace and ease. No — I’m in my bed in a fetal position trying to crawl my way out of it, wanting to fall asleep so I don’t have to deal with reality, or letting the hours pass away with inordinate amounts of bad television.
+I admit — no, I *recognize and fully embrace* — that I do not have this capability; I am not the Dalai Lama. When I’m mad and sad and frustrated and going crazy from all of those things combined, I am not some manifestation of grace and ease. No — I’m in my bed in a fetal position trying to crawl my way out of it, wanting to fall asleep so I don’t have to deal with reality, or letting the hours pass away with inordinate amounts of bad television.
 
 Yes, mindfulness meditation trains us in the ability to let go: to observe the emotions and thoughts that arise at those moments of negativity, not latch on to them, and let them fade away from our consciousness as we bring our focus back to the present. But, being me, I found that be unsatisfying and somewhat inadequate. I felt like I could _maybe_ let go a bit easier if I could just understand _why_ I was feeling that way, thinking those thoughts, and telling those stories to myself.
 

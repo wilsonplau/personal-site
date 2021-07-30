@@ -1,5 +1,5 @@
 ---
-path: "/write/on-automaticity"
+path: "/write/2016-10-11-on-automaticity"
 title: On Automaticity
 subtitle: Cultivating a fear for the mindless and automatic
 date: 2016-10-11
@@ -9,7 +9,7 @@ collection: []
 
 > [When] we momentarily lose touch with ourselves and with the full extent of our possibilities…we fall into a robot-like way of seeing and thinking and doing… If we are not careful, those clouded moments can stretch out and become most of our lives…[The] sheer momentum of your unconsciousness in this moment just colors the next moment. The days, months, and years quickly go by unnoticed, unused, unappreciated.
 
- — **Jon Kabat-Zinn** in Wherever You Go, There you Are.
+— **Jon Kabat-Zinn** in Wherever You Go, There you Are.
 
 Automaticity has become one of my greatest fears.
 

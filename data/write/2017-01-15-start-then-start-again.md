@@ -1,5 +1,5 @@
 ---
-path: "/write/start-then-start-again"
+path: "/write/2017-01-15-start-then-start-again"
 title: Start, then Start Again
 date: 2017-01-15
 tags: [Mindfulness]

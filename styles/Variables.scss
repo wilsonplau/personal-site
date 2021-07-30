@@ -17,25 +17,87 @@ $max-width: 1200px;
 
 // MIXINS
 @mixin hero {
-	background-color: white;
+  background-color: white;
 }
 
 @mixin hero-container {
-	padding: 25px 75px 100px 75px;
-	max-width: $max-width;
-	margin: 0 auto;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	h1 {
-		max-width: 1200px;
-		font-size: 72px;
-		line-height: 1em;
-		font-weight: normal;
-		font-family: "Libre Baskerville";
-		text-align: left;
-		span {
-			color: $red;
-		}
-	}
+  padding: 25px 75px 100px 75px;
+  max-width: $max-width;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  h1 {
+    max-width: 1200px;
+    font-size: 72px;
+    line-height: 1em;
+    font-weight: normal;
+    font-family: "Libre Baskerville";
+    text-align: left;
+    span {
+      color: $red;
+    }
+  }
+}
+
+@mixin article-content {
+  h1 {
+    font-size: 30px;
+    line-height: 1em;
+    font-weight: 500;
+    font-family: "Libre Baskerville";
+    margin-bottom: 25px;
+  }
+  h2 {
+    font-family: "Libre Baskerville";
+    font-size: 24px;
+    line-height: 1em;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 25px;
+  }
+  p {
+    font-family: "Libre Franklin";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.5em;
+    margin-bottom: 1.5em;
+    padding-left: 10px;
+    color: #333;
+  }
+  ul,
+  ol {
+    margin-left: 50px;
+    margin-bottom: 1.5em;
+  }
+  li {
+    font-family: "Libre Franklin";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.5em;
+    color: #333;
+    margin-bottom: 0.75em;
+  }
+  ul li {
+    list-style-type: disc;
+  }
+  ol li {
+    list-style-type: decimal;
+  }
+  strong {
+    font-weight: bold;
+    margin-bottom: 1em;
+  }
+  em {
+    font-style: italic;
+  }
+  blockquote {
+    margin-left: 25px;
+    padding-left: 25px;
+    border-left: 5px solid #222;
+    color: #5f5f5f;
+  }
+  img {
+    max-width: 100%;
+  }
 }

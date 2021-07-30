@@ -1,5 +1,5 @@
 ---
-path: "/write/attention-and-appreciation"
+path: "/write/2017-03-12-attention-and-appreciation"
 title: Attention & Appreciation
 date: 2017-03-12
 tags: [Mindfulness]

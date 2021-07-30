@@ -1,5 +1,5 @@
 ---
-path: "/write/allow-yourself-to-be-impressed"
+path: "/write/2017-03-19-allow-yourself-to-be-impressed"
 title: Allow Yourself to be Impressed
 date: 2017-03-19
 tags: [Mindfulness]

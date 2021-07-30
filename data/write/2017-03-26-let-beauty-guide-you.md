@@ -1,5 +1,5 @@
 ---
-path: "/write/let-beauty-guide-you"
+path: "/write/2017-03-26-let-beauty-guide-you"
 title: Let Beauty Guide You
 date: 2017-03-26
 tags: [Mindfulness]
@@ -12,7 +12,7 @@ collection: [Sunday Letters]
 
 ![Let Beauty Guide You](./img/march-26-fb.jpg)
 
-I think our lives should be guided by our sense of beauty. At first glance, that may seem like a contrived way of looking at things. After all, the idea of seeking beauty as a goal almost immediately conjures up thoughts of excess and luxury. But think about it for a moment. *What kind of life would we lead if we chose to seek beauty?*
+I think our lives should be guided by our sense of beauty. At first glance, that may seem like a contrived way of looking at things. After all, the idea of seeking beauty as a goal almost immediately conjures up thoughts of excess and luxury. But think about it for a moment. _What kind of life would we lead if we chose to seek beauty?_
 
 We could very well find ourselves driven to objects that are simple and unadorned, because that’s what we find beautiful. Or we may very well love elaborate, expensive things. It doesn’t matter. What’s important is when we seek beauty, we also inherently cultivate a deep appreciation and gratitude for what we have.
 

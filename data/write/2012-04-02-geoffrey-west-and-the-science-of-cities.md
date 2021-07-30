@@ -1,5 +1,5 @@
 ---
-path: "/write/geoffrey-west-and-the-science-of-cities"
+path: "/write/2012-04-02-geoffrey-west-and-the-science-of-cities"
 title: Geoffrey West and the Science of Cities
 date: 2012-04-02
 tags: [Urbanism]

@@ -1,5 +1,5 @@
 ---
-path: "/write/steadfastness"
+path: "/write/2017-04-16-steadfastness"
 title: Steadfastness
 date: 2017-04-16
 tags: [Mindfulness]
@@ -20,4 +20,4 @@ There is often an illusion of choice here. We’re not really being self-aware a
 
 It comes back to being able to sit with discomfort. It’s okay to feel a bit tired, it’s okay to sit hungry for a while, it’s okay that you didn’t have the best day. All that is uncomfortable, but it is also fleeting, temporary, and non-threatening. You still have the power to be mindful and intentional with your choices despite all those things.
 
-The point here is not for us to all adopt monastic-like discipline but to simply recognize that *how we feel does not need to dictate what we do.* We can be steadfast in our intentions.
+The point here is not for us to all adopt monastic-like discipline but to simply recognize that _how we feel does not need to dictate what we do._ We can be steadfast in our intentions.

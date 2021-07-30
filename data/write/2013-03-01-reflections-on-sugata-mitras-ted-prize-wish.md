@@ -1,5 +1,5 @@
 ---
-path: "/write/reflections-on-sugata-mitras-ted-prize-wish"
+path: "/write/2013-03-01-reflections-on-sugata-mitras-ted-prize-wish"
 title: Reflections on Sugata Mitra’s TED Prize Wish
 date: 2013-03-01
 tags: [Design]

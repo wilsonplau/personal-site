@@ -1,5 +1,5 @@
 ---
-path: "/write/on-bonding-curves-as-funding-mechanisms"
+path: "/write/2018-09-15-on-bonding-curves-as-funding-mechanisms"
 title: On Bonding Curves as Funding Mechanisms
 date: 2018-09-15
 tags: [Blockchain]

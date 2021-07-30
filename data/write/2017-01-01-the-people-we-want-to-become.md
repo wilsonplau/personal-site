@@ -1,5 +1,5 @@
 ---
-path: "/write/the-people-we-want-to-become"
+path: "/write/2017-01-01-the-people-we-want-to-become"
 title: The People We Want to Become
 date: 2017-01-01
 tags: [Mindfulness]

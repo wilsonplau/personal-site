@@ -1,5 +1,5 @@
 ---
-path: "/write/on-cultivating-openness"
+path: "/write/2017-02-19-on-cultivating-openness"
 title: On Cultivating Openness
 date: 2017-02-19
 tags: [Mindfulness]
@@ -12,7 +12,7 @@ collection: [Sunday Letters]
 
 ![On Cultivating Openness](./img/february-19-fb.jpg)
 
-We live in a very polarized world these days. As much as we try to be open and accepting of others, it’s difficult to gather the mindfulness to refrain from judgement and dismissal when faced with extremes. *So how might we cultivate a bit more openness?*
+We live in a very polarized world these days. As much as we try to be open and accepting of others, it’s difficult to gather the mindfulness to refrain from judgement and dismissal when faced with extremes. _So how might we cultivate a bit more openness?_
 
 We cultivate openness when we clearly see the reality of what we know and believe. That it’s just one perspective informed by our experience, and carries no absolutes and certainties. That there is always a difference between our interpretation of reality and reality. That we simply don’t know everything, and our opinions and beliefs are susceptible to change.
 

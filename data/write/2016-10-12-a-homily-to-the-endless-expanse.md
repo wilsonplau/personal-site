@@ -1,7 +1,7 @@
 ---
-path: "/write/a-homily-to-the-endless-expanse"
+path: "/write/2016-10-12-a-homily-to-the-endless-expanse"
 title: A Homily to the Endless Expanse
-subtitle: 
+subtitle:
 date: 2016-10-12
 tags: [Reflections]
 collection: []

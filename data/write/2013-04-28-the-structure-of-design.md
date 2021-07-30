@@ -1,5 +1,5 @@
 ---
-path: "/write/the-structure-of-design"
+path: "/write/2013-04-28-the-structure-of-design"
 title: The Structure of Design
 date: 2013-05-20
 tags: [Design]

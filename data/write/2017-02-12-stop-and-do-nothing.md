@@ -1,5 +1,5 @@
 ---
-path: "/write/stop-and-do-nothing"
+path: "/write/2017-02-12-stop-and-do-nothing"
 title: Stop and Do Nothing
 date: 2017-02-12
 tags: [Mindfulness]
@@ -12,7 +12,7 @@ collection: [Sunday Letters]
 
 ![Stop and Do Nothing](./img/february-12-fb.jpg)
 
-*It’s okay. You don’t need to be doing something all the time.* We’ve become more overworked and focused on productivity than ever before, constantly operating off our endless to-do lists and calendar schedules. We cram our days with distractions, whether they be productive or mindless.
+_It’s okay. You don’t need to be doing something all the time._ We’ve become more overworked and focused on productivity than ever before, constantly operating off our endless to-do lists and calendar schedules. We cram our days with distractions, whether they be productive or mindless.
 
 I suspect that this constant distraction is often more comforting to us than to stop and do nothing. There’s this positive reinforcement we get whether we’re working hard and being productive or engaged in a stream of mindless entertainment. When all that noise disappears, the silence can feel uneasy.
 

@@ -71,7 +71,7 @@ const WritePage: React.FC<WritePageProps> = ({ articleData }) => {
         </div>
         <div className={styles.write__main}>
           <div className={styles.write__left}>
-            <div className={styles.writeMenu__wrapper}>
+            <div className={styles.writeMenu__wrapper} data-aos="fade-up">
               <div className={styles.writeMenu}>
                 <h2>Categories</h2>
                 <button onClick={() => setCategoryFilter(null)} data-active={categoryFilter === null}>
@@ -118,7 +118,7 @@ const WritePage: React.FC<WritePageProps> = ({ articleData }) => {
           <div className={styles.write__right}>
             {filteredArticles.map((article) => (
               <Link key={article.data.path} href={article.data.path}>
-                <div className={styles.writeSingle}>
+                <div className={styles.writeSingle} data-aos="fade-up">
                   <h2>{article.data.title}</h2>
                   <h3>
                     {format(article.data.date, "yyyy-MM-dd")} • {article.data.tags.join(" • ")}
