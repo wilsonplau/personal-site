@@ -22,7 +22,7 @@ I generally also believe that the projects underlying bonding curves can be reve
 
 I also refer to the equation I designed in my previous article a few times here, so I’ve copied it here as a reference:
 
-![Bonding Curve Equation](./img/bonding-curve-equation.png)
+![Bonding Curve Equation](./img/bonding-curve-equation.webp)
 
 ## Funding Mechanisms for Single Bonding Curves
 
@@ -34,7 +34,7 @@ This is a bet on the curve being sustained over an indefinite period of time, an
 
 This trades off the ability to guarantee the fully redeemed amount for some amoutn of capital while preserving a lot of the core characteristics of the bonding curve. This is what it would probably look like:
 
-![Setting a redemption limit](./img/redemption-limit.png)
+![Setting a redemption limit](./img/redemption-limit.webp)
 
 Ideally, the token holders would vote to ramp up this redemption limit over time relative to the total amount bonded. In my view, this amount should represent a fairly insignificant amount of the total amount bonded, but those with greater risk appetites may disagree. The caution is that setting a redemption limit unwisely could spur FUD and lead to a ‘bank run’ of sorts on the bonding curve.
 
@@ -44,7 +44,7 @@ Projects can also raise a target amount of money by discounting the curve over a
 
 This involves calculating the target amount, and then changing a number of variables on the curve (lowering m/a, increasing c). Here’s a diagram to illustrate how it might work:
 
-![Discounting a Curve](./img/discounting-curves.png)
+![Discounting a Curve](./img/discounting-curves.webp)
 
 **3. Staking / Loans**
 
@@ -64,7 +64,7 @@ Where buy price > sell price, the delta between the two curves can be withdrawn 
 
 There are effectively three categories for how the delta between these curves can be designed — one where the two curves converge, diverge, or remain consistently divergent. Each has slightly different outcomes:
 
-![Increasingly Divergent Curves](./img/increasingly-diverent-curves.png)
+![Increasingly Divergent Curves](./img/increasingly-diverent-curves.webp)
 
 An increasly divergent set of curves will continue to create more and more excess ‘delta’ that can be withdrawn from the curve. The relative difference between the two curves can remain consistent (for example, a 10% discount), but the absolute difference will continue to grow. A curve where relative difference is growing would be unadvisable simply because contributors will be taking increasingly large losses to even participate.
 

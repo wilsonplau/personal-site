@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Oliver Sacks in Gratitude
 
-![A Reminder that that World Beautiful](./img/march-5-fb.jpg)
+![A Reminder that that World Beautiful](./img/march-5-fb.webp)
 
 I think we need to remind ourselves that the world is beautiful more often. That even the simple fact that we’re here, that we’re able to experience this moment right now is worthy of our deepest gratitude. It’s unfortunate that I find myself only feeling that gratitude when gifted this reminder by someone like Oliver Sacks.
 

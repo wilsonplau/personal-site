@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in Start Where You Are
 
-![The People We Want to Become](./img/january-01-fb.jpg)
+![The People We Want to Become](./img/january-01-fb.webp)
 
 We already have everything we need, but we always have room to grow. With each present moment, we are constantly becoming our best selves. And in each of those moments, we have the power to point ourselves in the directions we desire through the decisions we make.
 

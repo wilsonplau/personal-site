@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in Start Where You Are
 
-![Start, then Start Again](./img/january-15-fb.jpg)
+![Start, then Start Again](./img/january-15-fb.webp)
 
 Wherever we go, there we are. We are always starting from that point. And the only way to move from there is to start and take that next step towards somewhere else. Nothing changes if we don’t start.
 

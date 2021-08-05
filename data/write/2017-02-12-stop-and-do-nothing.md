@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Thich Nhat Hanh in Happiness
 
-![Stop and Do Nothing](./img/february-12-fb.jpg)
+![Stop and Do Nothing](./img/february-12-fb.webp)
 
 _It’s okay. You don’t need to be doing something all the time._ We’ve become more overworked and focused on productivity than ever before, constantly operating off our endless to-do lists and calendar schedules. We cram our days with distractions, whether they be productive or mindless.
 

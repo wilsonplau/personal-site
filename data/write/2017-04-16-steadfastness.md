@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in The Places that Scare You
 
-![Steadfastness](./img/april-16-fb.jpg)
+![Steadfastness](./img/april-16-fb.webp)
 
 I’ve been curious why monastic life emphasizes such extraordinary discipline. To wake up each day at the crack of dawn to meditate, do manual labor, and repeat — what does that teach?
 
