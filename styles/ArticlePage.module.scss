@@ -35,4 +35,28 @@
     @include article-content;
     margin-top: 50px;
   }
+
+  @media only screen and (max-width: 1200px) {
+    &__main {
+      padding: 100px 5%;
+    }
+  }
+  @media only screen and (max-width: 1080px) {
+    &__main {
+      padding: 100px 5%;
+      grid-template-columns: 100px 1fr;
+    }
+  }
+  @media only screen and (max-width: 960px) {
+    &__main {
+      display: flex;
+      flex-direction: column;
+    }
+    &__heading {
+      font-size: 36px;
+    }
+    &__left {
+      margin-bottom: 25px;
+    }
+  }
 }

@@ -15,6 +15,23 @@
     margin: 0 auto;
     position: relative;
   }
+  @media only screen and (max-width: 1200px) {
+    &__main {
+      padding: 100px 2.5%;
+    }
+  }
+  @media only screen and (max-width: 900px) {
+    &__main {
+      padding: 50px 2.5%;
+      grid-template-columns: 150px 1fr;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    &__main {
+      display: flex;
+      flex-direction: column;
+    }
+  }
 
   &Menu {
     margin-bottom: 25px;
@@ -47,6 +64,21 @@
         cursor: pointer;
       }
     }
+    @media only screen and (max-width: 600px) {
+      &__wrapper {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-bottom: 25px;
+      }
+    }
+    @media only screen and (max-width: 400px) {
+      button {
+        padding: 0;
+        margin-left: 0;
+      }
+    }
   }
 
   &Single {
@@ -72,6 +104,25 @@
       margin-top: 25px;
       font-family: "Libre Franklin";
       font-weight: 400;
+    }
+    @media only screen and (max-width: 900px) {
+      h2 {
+        font-size: 30px;
+      }
+      h3 {
+        margin-top: 10px;
+      }
+    }
+    @media only screen and (max-width: 750px) {
+      h2 {
+        font-size: 30px;
+      }
+    }
+    @media only screen and (max-width: 475px) {
+      padding: 25px 10px;
+      h2 {
+        font-size: 24px;
+      }
     }
   }
 }
