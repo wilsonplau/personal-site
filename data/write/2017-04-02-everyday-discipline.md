@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Shunryu Suzuki in Zen Mind, Beginner’s Mind
 
-![Everyday Discipline](./img/april-2-fb.jpg)
+![Everyday Discipline](./img/april-2-fb.webp)
 
 It comes to us obviously that, if we want to master playing the piano or a certain sport, we must dedicate a lot of time to deliberate practice. Without practice, you can only dwindle or plateau. We should think about our mindfulness practice in the same way.
 

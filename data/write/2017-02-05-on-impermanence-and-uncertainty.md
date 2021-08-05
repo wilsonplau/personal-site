@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in The Places that Scare You
 
-![On Impermanence and Uncertainy](./img/february-5-fb.jpg)
+![On Impermanence and Uncertainy](./img/february-5-fb.webp)
 
 We tend to cling to an identity. Of course, this is a natural compulsion but we should pause when we find ourselves grasping tightly to this idea of who we are. When we tell ourselves and others that this is just what I do, this is just what I like, this is just the way I am with unwavering conviction, we leave ourselves closed to possibility and unnecessarily confrontational about the way things are.
 

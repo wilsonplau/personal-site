@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – **Pema Chödrön** in When Things Fall Apart
 
-![Enough is Enough](./img/april-23-fb.jpg)
+![Enough is Enough](./img/april-23-fb.webp)
 
 When we realize that we have so much power and autonomy in our everyday actions — when we know that how we feel does not need to dictate what we do — it’s easy to become almost a bit guilt-ridden and harsh with ourselves in our transgressions in the name of discipline.
 

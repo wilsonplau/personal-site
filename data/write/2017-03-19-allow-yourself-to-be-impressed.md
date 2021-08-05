@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Thich Nhat Hanh in The Miracle of Mindfulness
 
-![All Yourself to be Impressed](./img/march-19-fb.jpg)
+![All Yourself to be Impressed](./img/march-19-fb.webp)
 
 There’s a point in our lives when we’re not so easily impressed anymore. Everything becomes a bit banal. Perhaps it’s the glut of exciting television or dramatic headlines that conditions us to always look for the extraordinary and the scandalous. The ordinary and the simple fail to impress us.
 

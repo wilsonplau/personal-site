@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in The Places that Scare You
 
-![Attention and Appreciation](./img/march-12-fb.jpg)
+![Attention and Appreciation](./img/march-12-fb.webp)
 
 A photographer finds beauty through framing. No matter how seemingly banal or even ugly we may find something, there is always a perspective through which we can find beauty in it. It is our control over the context and way in which we view something that colors our interpretation of it. There is nothing inherently ugly or unworthy of our appreciation; it is always perspective.
 

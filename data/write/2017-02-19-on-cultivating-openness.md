@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in When Things Fall Apart
 
-![On Cultivating Openness](./img/february-19-fb.jpg)
+![On Cultivating Openness](./img/february-19-fb.webp)
 
 We live in a very polarized world these days. As much as we try to be open and accepting of others, it’s difficult to gather the mindfulness to refrain from judgement and dismissal when faced with extremes. _So how might we cultivate a bit more openness?_
 

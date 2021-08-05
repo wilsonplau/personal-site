@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Pema Chödrön in Start Where You Are
 
-![Finding Patience](./img/april-9-fb.jpg)
+![Finding Patience](./img/april-9-fb.webp)
 
 _Things take time._ I repeat that to myself with surprising regularity. Impatience is no doubt a common affliction of ours, most certainly in my life at least. And I find it illuminating to see and understand patience as a **willingness to accept discomfort.**
 

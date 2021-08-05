@@ -10,7 +10,7 @@ collection: [Sunday Letters]
 
 – Kenkō in Essays in Idleness
 
-![Let Beauty Guide You](./img/march-26-fb.jpg)
+![Let Beauty Guide You](./img/march-26-fb.webp)
 
 I think our lives should be guided by our sense of beauty. At first glance, that may seem like a contrived way of looking at things. After all, the idea of seeking beauty as a goal almost immediately conjures up thoughts of excess and luxury. But think about it for a moment. _What kind of life would we lead if we chose to seek beauty?_
 
