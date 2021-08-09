@@ -1,0 +1,50 @@
+@import "./Variables.scss";
+
+.read {
+  &__hero {
+    @include hero;
+  }
+  &__heroContainer {
+    @include hero-container;
+  }
+  &__main {
+    max-width: $max-width;
+    margin: 0 auto;
+    padding: 100px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h1 {
+      font-size: 48px;
+      font-weight: 600;
+      font-family: $libre-franklin;
+      line-height: 1em;
+      margin-bottom: 10px;
+    }
+    h2 {
+      max-width: 600px;
+      font-family: $libre-baskerville;
+      font-size: 20px;
+      line-height: 1.5em;
+      margin-bottom: 25px;
+    }
+  }
+  @media only screen and (max-width: 1200px) {
+    &__main {
+      padding: 100px 2.5%;
+    }
+  }
+  @media only screen and (max-width: 900px) {
+    &__main {
+      padding: 50px 2.5%;
+      grid-template-columns: 150px 1fr;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    &__main {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}

@@ -24,3 +24,12 @@ export interface ArticleMarkdown extends matter.GrayMatterFile {
     title: string;
   };
 }
+
+export interface BookMarkdown extends matter.GrayMatterFile {
+  data: {
+    title: string;
+    author: string;
+    year: string;
+    image: string;
+  };
+}

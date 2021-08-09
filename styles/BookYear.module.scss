@@ -1,0 +1,29 @@
+@import "./Variables.scss";
+
+.bookYear {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 0;
+  h2 {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: $libre-franklin;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  p {
+    font-family: $libre-baskerville;
+    font-size: 18px;
+    color: #aaa;
+  }
+  &__main {
+    min-height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+  }
+}
